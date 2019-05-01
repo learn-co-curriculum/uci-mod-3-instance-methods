@@ -1,5 +1,6 @@
 tags:
-  - tag1
+  - oo
+  - instance methods
 languages:
-  - language1
+  - ruby
 resources: 0
